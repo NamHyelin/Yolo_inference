@@ -6,14 +6,6 @@
 ├── img_acquisition_main.py          load img from 4 devices and process
 ├── Yolo_inference.py                Yolo inference with loaded img
 ├── save_excel.py                    Save inference result to excel file
-├── tool
-│   ├── camera.py           a demo camera
-│   ├── coco_annotation.py       coco dataset generator
-│   ├── config.py
-│   ├── darknet2pytorch.py
-│   ├── region_loss.py
-│   ├── utils.py
-│   └── yolo_layer.py
 ```
 
 

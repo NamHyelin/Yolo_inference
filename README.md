@@ -3,16 +3,9 @@
 
 ```
 ├── README.md
-├── dataset.py            dataset
-├── demo.py               demo to run pytorch --> tool/darknet2pytorch
-├── demo_darknet2onnx.py  tool to convert into onnx --> tool/darknet2pytorch
-├── demo_pytorch2onnx.py  tool to convert into onnx
-├── models.py             model for pytorch
-├── train.py              train models.py
-├── cfg.py                cfg.py for train
-├── cfg                   cfg --> darknet2pytorch
-├── data            
-├── weight                --> darknet2pytorch
+├── img_acquisition_main.py          load img from 4 devices and process
+├── Yolo_inference.py                Yolo inference with loaded img
+├── save_excel.py                    Save inference result to excel file
 ├── tool
 │   ├── camera.py           a demo camera
 │   ├── coco_annotation.py       coco dataset generator

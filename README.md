@@ -3,9 +3,9 @@
 
 ```
 ├── README.md
-├── img_acquisition_main.py          load img from 4 devices and process
+├── img_acquisition_main.py          Load img from 4 devices and process
 ├── Yolo_inference.py                Yolo inference with loaded img
-├── save_excel.py                    Save inference result to excel file
+├── save_excel.py                    Save inference result in excel file format
 ```
 
 

@@ -11,10 +11,7 @@
 
 
 ```
-@article{yolov4,
-  title={YOLOv4: YOLOv4: Optimal Speed and Accuracy of Object Detection},
-  author={Alexey Bochkovskiy, Chien-Yao Wang, Hong-Yuan Mark Liao},
-  journal = {arXiv},
-  year={2020}
-}
+Project by Yonsei and Daesun, a Korean brewing company
+Code for detecting types of recycling bottles,
+installed in computing devices in Daesun factory
 ```

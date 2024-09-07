@@ -17,5 +17,6 @@ installed in computing devices in Daesun factory
 ```
 
 ```
-Dreams-come-True
+Training code:
+https://github.com/NamHyelin/Yolov4_split_learning
 ```
